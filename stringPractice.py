@@ -1,4 +1,6 @@
-# This program shows various ways to manipulate strings of data
+# Phyllis Torres
+# String Manipulation
+#  This program shows various ways to manipulate strings of data
 
 # define colors and bold text parameters
 class color:
